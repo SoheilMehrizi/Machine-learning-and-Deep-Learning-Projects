@@ -9,7 +9,7 @@ Welcome to my repository! This collection includes all the general projects I've
 3. [Projects](#projects)
 
 
-
+## Project Structure
 Each project is organized into its own folder with the following structure:
 
 ```
